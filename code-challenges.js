@@ -54,11 +54,11 @@ var vowelTester1 = "throw"
 
 
 // Uncomment and use the following console logs to test your function
-// console.log(calculator(3, "*" 9))
+// console.log(calculator(3, "*", 9))
 // Expected output: 27
 
-// console.log(calculator(16, "+" 3))
+// console.log(calculator(16, "+", 3))
 // Expected output: 19
 
-// console.log(calculator(89, "/" 0))
+// console.log(calculator(89, "/", 0))
 // Expected output: "Can't divide by 0!"
