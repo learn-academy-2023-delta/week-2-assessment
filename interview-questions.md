@@ -2,7 +2,7 @@
 
 Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.
 
-1. What does CRUD stand for?
+1. Why would you use the method super()?
 
   Your answer:
 
@@ -10,7 +10,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-2. What are the 5 HTTP verbs?
+2. What is a virtual DOM?
 
   Your answer:
 
@@ -18,7 +18,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-3. When creating a basic (stateless) class component in React, what are the necessary elements needed to render "Hello World" on the page?
+3. When creating a basic (stateless) class component in React, what are the necessary elements needed to display "Hello World" in the browser?
 
   Your answer:
 
@@ -34,7 +34,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-5. What is the difference between React state and props?
+5. What is state in React?
 
   Your answer:
 
@@ -58,3 +58,5 @@ Research and define the following terms to the best of your ability.
 - API
 - event.preventDefault()
 - DOM events
+- http verbs
+- MVC

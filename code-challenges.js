@@ -35,7 +35,6 @@ var mixedDataArray = [true, 8, "hello", 90, -8, null, 0, 46, 59, 107, "hey!"]
 
 
 // --------------------4) Create a function that takes in a string and logs the index of the first vowel.
-// Use the test variables provided.
 
 var vowelTester1 = "learn"
 // Expected output: 1
