@@ -55,8 +55,7 @@ Answer the following questions. First, without external resources. Challenge you
 Research and define the following terms to the best of your ability.
 
 - React lifecycle methods
-- API
+- React props
 - event.preventDefault()
 - DOM events
-- http verbs
 - MVC
