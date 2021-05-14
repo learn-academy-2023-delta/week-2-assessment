@@ -1,7 +1,7 @@
 // ASSESSMENT 2: Coding practical questions with Jest
 
 // Please read all questions thoroughly
-// Pseudo coding is HIGHLY recommended
+// Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
 
 // Add appropriate dependencies to the repository:
@@ -56,27 +56,7 @@ var randomNouns2 = ["temperature", "database", "chopsticks", "mango", "deduction
 
 
 
-// --------------------3) Create a function that takes in an array of mixed data types and returns an array with ONLY NUMBERS sorted from least to greatest.
-
-// a) Create a test with expect statements for each of the variables provided.
-
-var mixedDataArray1 = [true, 8, "hello", -8, null, 0, 46, 59, 107, "hey!"]
-// Expected output: [-8, 0, 8, 46, 59, 107]
-
-var mixedDataArray1 = [3, "yo!", 94, -9, false, 0, 18, "hola!"]
-// Expected output: [-9, 0, 3, 18, 94]
-
-
-
-
-
-// b) Create the function that makes the test pass.
-
-
-
-
-
-// --------------------4) Create a function that takes in a string and logs the index of the first vowel.
+// --------------------3) Create a function that takes in a string and logs the index of the first vowel.
 
 // a) Create a test with expect statements for each of the variables provided.
 
