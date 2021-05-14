@@ -24,7 +24,7 @@ var num2 = 0
 // Expected output: "0 is divisible by three"
 
 var num3 = -7
-// Expected output: "-7 is not divisble by three"
+// Expected output: "-7 is not divisible by three"
 
 
 
