@@ -1,6 +1,7 @@
 // ASSESSMENT 2: Coding practical questions with Jest
 
 // Please read all questions thoroughly
+// All problems can be solved with concepts covered in class or in the syllabus
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
 
@@ -28,11 +29,7 @@ var num3 = -7
 
 
 
-
-
 // b) Create the function that makes the test pass.
-
-
 
 
 
@@ -48,11 +45,7 @@ var randomNouns2 = ["temperature", "database", "chopsticks", "mango", "deduction
 
 
 
-
-
 // b) Create the function that makes the test pass.
-
-
 
 
 
@@ -66,8 +59,6 @@ var vowelTester2 = "academy"
 // Expected output: 0
 var vowelTester3 = "challenge"
 // Expected output: 2
-
-
 
 
 

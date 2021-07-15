@@ -6,7 +6,7 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-1. The built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
+1. What is iteration?
 
   Your answer:
 
@@ -14,7 +14,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is object destructuring?
+2. The built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
 
   Your answer:
 
@@ -22,7 +22,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. Why would you use the method super()?
+3. What is object destructuring?
 
   Your answer:
 
@@ -30,7 +30,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is a React Fragment? Why would you use one?
+4. What is the difference between an object and a class?
 
   Your answer:
 
@@ -38,7 +38,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is JSX?
+5. Why would you use the method super()?
 
   Your answer:
 
@@ -58,8 +58,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. React props:
+1. React:
+
 2. React lifecycle methods:
-3. Logic/smart component:
-4. Display/dumb component:
+
+3. React state:
+
+4. Component invocation/call:
+
 5. DOM Events:
