@@ -14,7 +14,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. The built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
+2. The JavaScript built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
 
   Your answer:
 
@@ -30,7 +30,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is the difference between an object and a class?
+4. What is the difference between a function and a method?
 
   Your answer:
 
@@ -38,7 +38,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. Why would you use the method super()?
+5. What is the difference between a class and an object?
 
   Your answer:
 
@@ -58,12 +58,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. React:
+1. Class Inheritance:
 
-2. React lifecycle methods:
+2. React:
 
 3. React state:
 
-4. Component invocation/call:
+4. React lifecycle methods:
 
-5. DOM Events:
+5. DOM:

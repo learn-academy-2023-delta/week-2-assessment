@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-var cohort = "Charlie 2021"
+var cohort = "Delta 2021"
 // console.log(cohort.split(""))
 
 // a) Your answer:
@@ -46,13 +46,13 @@ var oddsOnly = [11, 12, 13, 14, 15].filter(value => value % 2 === 0)
 // --------------------5) What will this log?
 
 class Learn {
-  constructor(){
-    this.student = "George",
-    this.cohort = "Charlie",
+  constructor(name){
+    this.student = name,
+    this.cohort = "Delta",
     this.year = 2021
   }
 }
-var learnStudent = new Learn
+var learnStudent = new Learn("George")
 // console.log(learnStudent)
 
 // a) Your answer:
