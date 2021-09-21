@@ -36,8 +36,8 @@ var multBy2 = [4, 5, 6, 7, 8].map(value => value * 2)
 
 // --------------------4) What will this log?
 
-var oddsOnly = [11, 12, 13, 14, 15].filter(value => value % 2 === 0)
-// console.log(oddsOnly)
+var onlyOdds = [11, 12, 13, 14, 15].filter(value => value % 2 !== 0)
+// console.log(onlyOdds)
 
 // a) Your answer:
 // b) Verify and explain:
