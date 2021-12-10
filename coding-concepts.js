@@ -1,4 +1,4 @@
-// ASSESSMENT 1: Coding conceptual questions
+// ASSESSMENT 2: Coding Conceptual Questions
 
 // Examine the following examples.
 
@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-var cohort = "Delta 2021"
+var cohort = "Echo 2021"
 // console.log(cohort.split(""))
 
 // a) Your answer:
@@ -44,6 +44,20 @@ var onlyOdds = [11, 12, 13, 14, 15].filter(value => value % 2 !== 0)
 
 
 // --------------------5) What will this log?
+
+var myCodingSkills = {
+  languages: ["JavaScript", "Ruby"],
+  frameworks: ["React", "Ruby on Rails"],
+  databases: "PostgreSQL",
+  versionControl: "GitHub"
+}
+// console.log(myCodingSkills.languages[0])
+
+// a) Your answer:
+// b) Verify and explain:
+
+
+// --------------------STRETCH: What will this log?
 
 class Learn {
   constructor(name){

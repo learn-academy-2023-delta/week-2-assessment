@@ -1,4 +1,4 @@
-// ASSESSMENT 2: Coding practical questions with Jest
+// ASSESSMENT 2: Coding Practical Questions with Jest
 
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
