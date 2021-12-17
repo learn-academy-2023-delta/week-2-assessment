@@ -7,7 +7,7 @@ Read all instructions carefully!
 - Create a new branch
 - Complete ALL files
 - Create a Pull Request when complete
-- Assessments are due before class on the following Monday
+- Assessments are due before class starts on the following Monday
 
 ---
 - An instructor will review your Pull Request and give you feedback
