@@ -15,11 +15,11 @@
 
 // a) Create a test with expect statements for each of the variables provided.
 
-var num1 = 15
+const num1 = 15
 // Expected output: "15 is divisible by three"
-var num2 = 0
+const num2 = 0
 // Expected output: "0 is divisible by three"
-var num3 = -7
+const num3 = -7
 // Expected output: "-7 is not divisible by three"
 
 
@@ -32,9 +32,9 @@ var num3 = -7
 
 // a) Create a test with expect statements for each of the variables provided.
 
-var randomNouns1 = ["streetlamp", "potato", "teeth", "conclusion", "nephew"]
+const randomNouns1 = ["streetlamp", "potato", "teeth", "conclusion", "nephew"]
 // Expected output: ["Streetlamp", "Potato", "Teeth", "Conclusion", "Nephew"]
-var randomNouns2 = ["temperature", "database", "chopsticks", "mango", "deduction"]
+const randomNouns2 = ["temperature", "database", "chopsticks", "mango", "deduction"]
 // Expected output: ["Temperature", "Database", "Chopsticks", "Mango", "Deduction"]
 
 
@@ -47,11 +47,11 @@ var randomNouns2 = ["temperature", "database", "chopsticks", "mango", "deduction
 
 // a) Create a test with expect statements for each of the variables provided.
 
-var vowelTester1 = "learn"
+const vowelTester1 = "learn"
 // Expected output: 1
-var vowelTester2 = "academy"
+const vowelTester2 = "academy"
 // Expected output: 0
-var vowelTester3 = "challenges"
+const vowelTester3 = "challenges"
 // Expected output: 2
 
 
