@@ -22,7 +22,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is object destructuring?
+3. What is the difference between map and filter?
 
   Your answer:
 
@@ -38,7 +38,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is the difference between a class and an object?
+5. What is object destructuring?
 
   Your answer:
 
