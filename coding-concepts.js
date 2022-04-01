@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-var cohort = "Alpha 2022"
+var cohort = "Bravo 2022"
 // console.log(cohort.split(""))
 
 // a) Your answer:
@@ -62,7 +62,7 @@ var myCodingSkills = {
 class Learn {
   constructor(name){
     this.student = name,
-    this.cohort = "Alpha",
+    this.cohort = "Bravo",
     this.year = 2022
   }
 }
