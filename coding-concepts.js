@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-var cohort = "Bravo 2022"
+var cohort = "Delta 2022"
 // console.log(cohort.split(""))
 
 // a) Your answer:
