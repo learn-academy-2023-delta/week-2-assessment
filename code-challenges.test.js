@@ -24,15 +24,15 @@ const numbersArray2 = [24, 27, 30, 33, 36]
 
 
 
-// --------------------1) Create a function that takes a number as an argument and decides if the number is evenly divisble by three or not.
+// --------------------1) Create a function that takes a object as an argument and decides if the number inside it is evenly divisble by three or not.
 
 // a) Create a test with expect statements for each of the variables provided.
 
-const num1 = 15
+const obj1 = { number: 15 }
 // Expected output: "15 is divisible by three"
-const num2 = 0
+const obj2 =  { number: 0 }
 // Expected output: "0 is divisible by three"
-const num3 = -7
+const obj3 = { number: -7 }
 // Expected output: "-7 is not divisible by three"
 
 
