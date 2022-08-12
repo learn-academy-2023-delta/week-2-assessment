@@ -8,62 +8,50 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is the difference between a parameter and an argument?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 2. The JavaScript built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 3. What is the difference between map and filter?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
+Researched answer:
 
+4. What is the DOM?
 
+Your answer:
 
-4. What is the difference between a function and a method?
+Researched answer:
 
-  Your answer:
+5. What is React? Why would you use it?
 
-  Researched answer:
+Your answer:
 
-
-
-5. What is object destructuring?
-
-  Your answer:
-
-  Researched answer:
-
-
+Researched answer:
 
 6. STRETCH: What is hoisting in JavaScript?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
-
-
+Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
 
-1. Class Inheritance:
+1. User stories:
 
-2. React:
+2. Spread operator:
 
-3. React state:
+3. React props:
 
-4. React lifecycle methods:
+4. Conditional rendering:
 
-5. DOM:
+5. DOM events:

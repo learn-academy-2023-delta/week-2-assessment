@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-var cohort = "Delta 2022"
+const cohort = "Echo 2022"
 // console.log(cohort.split(""))
 
 // a) Your answer:
@@ -27,8 +27,8 @@ const greeter = (name) => {
 
 // --------------------3) What will this log?
 
-var multBy2 = [4, 5, 6, 7, 8].map(value => value * 2)
-// console.log(multBy2)
+const multipliedByTwo = [4, 5, 6, 7, 8].map(number => number * 2)
+// console.log(multipliedByTwo)
 
 // a) Your answer:
 // b) Verify and explain:
@@ -36,7 +36,7 @@ var multBy2 = [4, 5, 6, 7, 8].map(value => value * 2)
 
 // --------------------4) What will this log?
 
-var onlyOdds = [11, 12, 13, 14, 15].filter(value => value % 2 !== 0)
+const onlyOdds = [11, 12, 13, 14, 15].filter(number => number % 2 !== 0)
 // console.log(onlyOdds)
 
 // a) Your answer:
@@ -45,7 +45,7 @@ var onlyOdds = [11, 12, 13, 14, 15].filter(value => value % 2 !== 0)
 
 // --------------------5) What will this log?
 
-var myCodingSkills = {
+const myCodingSkills = {
   languages: ["JavaScript", "Ruby"],
   frameworks: ["React", "Ruby on Rails"],
   databases: "PostgreSQL",
@@ -62,11 +62,11 @@ var myCodingSkills = {
 class Learn {
   constructor(name){
     this.student = name,
-    this.cohort = "Bravo",
+    this.cohort = "Echo",
     this.year = 2022
   }
 }
-var learnStudent = new Learn("George")
+const learnStudent = new Learn("George")
 // console.log(learnStudent)
 
 // a) Your answer:
