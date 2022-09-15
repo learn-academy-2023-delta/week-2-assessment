@@ -24,13 +24,13 @@ Your answer:
 
 Researched answer:
 
-4. What is the DOM?
+4. What is iteration?
 
 Your answer:
 
 Researched answer:
 
-5. What is React? Why would you use it?
+5. What is the difference between a class and an object?
 
 Your answer:
 
@@ -50,8 +50,8 @@ Research and define the following terms to the best of your ability.
 
 2. Spread operator:
 
-3. React props:
+3. React:
 
-4. Conditional rendering:
+4. React props:
 
 5. DOM events:
