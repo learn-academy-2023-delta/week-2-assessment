@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-const cohort = "Foxtrot 2022"
+const cohort = "Golf 2022"
 // console.log(cohort.split(""))
 
 // a) Your answer:
