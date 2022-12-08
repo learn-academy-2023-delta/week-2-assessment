@@ -50,7 +50,7 @@ Research and define the following terms to the best of your ability.
 
 2. Spread operator:
 
-3. React:
+3. React state:
 
 4. React props:
 
