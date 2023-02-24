@@ -24,13 +24,13 @@ Your answer:
 
 Researched answer:
 
-4. What is iteration?
+1. What is iteration?
 
 Your answer:
 
 Researched answer:
 
-5. What is the difference between a class and an object?
+1. What is the difference between a function and a method?
 
 Your answer:
 
@@ -46,7 +46,7 @@ Researched answer:
 
 Research and define the following terms to the best of your ability.
 
-1. User stories:
+1. Classes:
 
 2. Spread operator:
 

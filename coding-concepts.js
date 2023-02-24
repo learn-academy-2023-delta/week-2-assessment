@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-const cohort = "Hotel 2022"
+const cohort = "Alpha 2023"
 // console.log(cohort.split(""))
 
 // a) Your answer:
@@ -48,21 +48,6 @@ const myCodingSkills = {
   versionControl: "GitHub"
 }
 // console.log(myCodingSkills.languages[0])
-
-// a) Your answer:
-// b) Verify and explain:
-
-// --------------------STRETCH: What will this log?
-
-class Learn {
-  constructor(name) {
-    this.student = name
-    this.cohort = "Hotel"
-    this.year = 2022
-  }
-}
-const learnStudent = new Learn("George")
-// console.log(learnStudent)
 
 // a) Your answer:
 // b) Verify and explain:
