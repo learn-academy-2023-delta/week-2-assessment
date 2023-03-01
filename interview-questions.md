@@ -46,7 +46,7 @@ Researched answer:
 
 Research and define the following terms to the best of your ability.
 
-1. Classes:
+1. Component:
 
 2. Spread operator:
 
